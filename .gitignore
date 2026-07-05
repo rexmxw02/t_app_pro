@@ -7,6 +7,4 @@
 build/
 android/.gradle/
 android/app/build/
-*.keystore
-*.jks
 .DS_Store

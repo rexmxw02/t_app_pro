@@ -26,5 +26,5 @@ jobs:
       - run: flutter build apk --release
       - uses: actions/upload-artifact@v4
         with:
-          name: t-app-pro-v4-apk
+          name: t-app-pro-v6-apk
           path: build/app/outputs/flutter-apk/app-release.apk

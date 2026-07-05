@@ -1,7 +1,7 @@
 name: t_app_pro
-description: Original tax service style Flutter app.
+description: Pixel matched income tax detail app.
 publish_to: "none"
-version: 4.0.0+4
+version: 6.0.0+6
 
 environment:
   sdk: ">=3.3.0 <4.0.0"
