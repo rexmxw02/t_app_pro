@@ -1,22 +1,12 @@
-# t_app_pro V3
+# t_app_pro V4 UI Fix
 
-完整原创税务服务风格 Flutter App。
+这版重点修正“收入纳税明细”页面，让它更接近你发的原始界面：
 
-## 功能
-- 登录 / 验证码体验页
-- 首页仪表盘
-- 收入纳税明细
-- 收入详情
-- 搜索和筛选
-- 数据统计图表
-- 税额计算器
-- 申诉演示
-- 我的 / 设置
-- GitHub Actions 自动构建 APK
-
-## 自动 APK
-推送到 GitHub 后：
-
-Actions -> Build Android APK -> 最新运行 -> Artifacts -> t-app-pro-v3-apk
-
-下载 `app-release.apk` 即可安装。
+- 顶部 iOS 风格导航
+- 白底 + 浅灰分割区
+- 蓝色返回 / 批量申诉
+- 收入合计区
+- 大字号工资薪金
+- 右侧月份
+- 灰色说明文字
+- 列表卡片间距和箭头
