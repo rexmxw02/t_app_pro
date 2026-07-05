@@ -1,7 +1,7 @@
 name: t_app_pro
-description: Exact income tax detail page.
+description: Pixel perfect income tax page.
 publish_to: "none"
-version: 7.0.0+7
+version: 10.0.0+10
 
 environment:
   sdk: ">=3.3.0 <4.0.0"
