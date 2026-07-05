@@ -1,0 +1,17 @@
+name: t_app_pro
+description: Original tax-service style Flutter app demo.
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  fl_chart: ^0.68.0
+  sqflite: ^2.3.3+1
+  path: ^1.9.0
+
+flutter:
+  uses-material-design: true
