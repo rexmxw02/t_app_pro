@@ -8,7 +8,7 @@ class AppTheme {
         colorSchemeSeed: primary,
         brightness: Brightness.light,
         scaffoldBackgroundColor: const Color(0xfff5f6f9),
-        cardTheme: CardTheme(
+        cardTheme: CardThemeData(
           elevation: 0,
           shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(18)),
         ),
@@ -24,7 +24,7 @@ class AppTheme {
         useMaterial3: true,
         colorSchemeSeed: primary,
         brightness: Brightness.dark,
-        cardTheme: CardTheme(
+        cardTheme: CardThemeData(
           elevation: 0,
           shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(18)),
         ),
