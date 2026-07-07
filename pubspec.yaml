@@ -1,7 +1,7 @@
 name: t_app_pro
 description: Pixel perfect tax income detail app.
 publish_to: "none"
-version: 11.0.0+11
+version: 12.0.0+12
 
 environment:
   sdk: ">=3.3.0 <4.0.0"

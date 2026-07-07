@@ -22,9 +22,7 @@ class IncomeTaxPage extends StatelessWidget {
               child: ListView.builder(
                 padding: EdgeInsets.zero,
                 itemCount: incomeItems.length,
-                itemBuilder: (context, index) {
-                  return IncomeListRow(item: incomeItems[index]);
-                },
+                itemBuilder: (context, index) => IncomeListRow(item: incomeItems[index]),
               ),
             ),
           ],
